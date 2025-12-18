@@ -1,7 +1,7 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
 
-const genAI = new GoogleGenerativeAI(API_KEY);
+
 
 // Disaster management system prompt
 const DISASTER_SYSTEM_PROMPT = `You are an expert disaster management AI assistant for an Integrated Disaster Management and Response System (IDMRS). Your role is to provide accurate, actionable guidance for disaster preparedness, response, and recovery.
