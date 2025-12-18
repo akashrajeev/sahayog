@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const API_KEY = 'AIzaSyA4ycsRTnW2dZin7obF-iJD7krRd63qhjA';
+
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Disaster management system prompt
